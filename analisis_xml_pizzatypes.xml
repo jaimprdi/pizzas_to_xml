@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TITULO>
+  <fichero pizza_types.csv="nombre">
+    <columna nombre_columna="pizza_type_id,name,category,ingredients">
+      <NaN_columna numero_NaN_columna="0" />
+      <Null_columna numero_Null_columna="0" />
+      <tipo_dato tipo_dato_columna="object" />
+    </columna>
+  </fichero>
+</TITULO>

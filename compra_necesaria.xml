@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>Mozzarella Cheese</index>
+    <Ingredientes_necesarios>Mozzarella Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>471</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Pepperoni</index>
+    <Ingredientes_necesarios>Pepperoni</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>392</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Provolone Cheese</index>
+    <Ingredientes_necesarios>Provolone Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>99</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Smoked Gouda Cheese</index>
+    <Ingredientes_necesarios>Smoked Gouda Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>99</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Romano Cheese</index>
+    <Ingredientes_necesarios>Romano Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>99</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Blue Cheese</index>
+    <Ingredientes_necesarios>Blue Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>99</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Garlic</index>
+    <Ingredientes_necesarios>Garlic</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>1283</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Calabrese Salami</index>
+    <Ingredientes_necesarios>Calabrese Salami</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>98</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Capocollo</index>
+    <Ingredientes_necesarios>Capocollo</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>319</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Tomatoes</index>
+    <Ingredientes_necesarios>Tomatoes</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>1176</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Red Onions</index>
+    <Ingredientes_necesarios>Red Onions</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>852</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Green Olives</index>
+    <Ingredientes_necesarios>Green Olives</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>279</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Chicken</index>
+    <Ingredientes_necesarios>Chicken</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>393</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Artichoke</index>
+    <Ingredientes_necesarios>Artichoke</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>127</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Spinach</index>
+    <Ingredientes_necesarios>Spinach</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>426</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Jalapeno Peppers</index>
+    <Ingredientes_necesarios>Jalapeno Peppers</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>248</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Fontina Cheese</index>
+    <Ingredientes_necesarios>Fontina Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>178</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Gouda Cheese</index>
+    <Ingredientes_necesarios>Gouda Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>127</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Artichokes</index>
+    <Ingredientes_necesarios>Artichokes</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>258</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Kalamata Olives</index>
+    <Ingredientes_necesarios>Kalamata Olives</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>152</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Sun-dried Tomatoes</index>
+    <Ingredientes_necesarios>Sun-dried Tomatoes</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>71</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Feta Cheese</index>
+    <Ingredientes_necesarios>Feta Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>205</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Plum Tomatoes</index>
+    <Ingredientes_necesarios>Plum Tomatoes</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>44</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Soppressata Salami</index>
+    <Ingredientes_necesarios>Soppressata Salami</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>51</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Mushrooms</index>
+    <Ingredientes_necesarios>Mushrooms</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>392</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Brie Carre Cheese</index>
+    <Ingredientes_necesarios>Brie Carre Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>9</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Prosciutto</index>
+    <Ingredientes_necesarios>Prosciutto</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>9</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Caramelized Onions</index>
+    <Ingredientes_necesarios>Caramelized Onions</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>9</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Pears</index>
+    <Ingredientes_necesarios>Pears</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>9</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Thyme</index>
+    <Ingredientes_necesarios>Thyme</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>9</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Barbecued Chicken</index>
+    <Ingredientes_necesarios>Barbecued Chicken</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>113</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Red Peppers</index>
+    <Ingredientes_necesarios>Red Peppers</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>684</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Green Peppers</index>
+    <Ingredientes_necesarios>Green Peppers</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>219</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Barbecue Sauce</index>
+    <Ingredientes_necesarios>Barbecue Sauce</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>113</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Genoa Salami</index>
+    <Ingredientes_necesarios>Genoa Salami</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>69</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Asiago Cheese</index>
+    <Ingredientes_necesarios>Asiago Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>150</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Ricotta Cheese</index>
+    <Ingredientes_necesarios>Ricotta Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>88</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Gorgonzola Piccante Cheese</index>
+    <Ingredientes_necesarios>Gorgonzola Piccante Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>88</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Parmigiano Reggiano Cheese</index>
+    <Ingredientes_necesarios>Parmigiano Reggiano Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>88</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Sliced Ham</index>
+    <Ingredientes_necesarios>Sliced Ham</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>54</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Pineapple</index>
+    <Ingredientes_necesarios>Pineapple</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>172</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Bacon</index>
+    <Ingredientes_necesarios>Bacon</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>132</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Nduja Salami</index>
+    <Ingredientes_necesarios>Nduja Salami</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>45</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Pancetta</index>
+    <Ingredientes_necesarios>Pancetta</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>45</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Friggitello Peppers</index>
+    <Ingredientes_necesarios>Friggitello Peppers</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>45</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Goat Cheese</index>
+    <Ingredientes_necesarios>Goat Cheese</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>152</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Oregano</index>
+    <Ingredientes_necesarios>Oregano</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>42</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Pesto Sauce</index>
+    <Ingredientes_necesarios>Pesto Sauce</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>112</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Zucchini</index>
+    <Ingredientes_necesarios>Zucchini</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>100</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Peperoncini verdi</index>
+    <Ingredientes_necesarios>Peperoncini verdi</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>110</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Anchovies</index>
+    <Ingredientes_necesarios>Anchovies</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>62</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Cilantro</index>
+    <Ingredientes_necesarios>Cilantro</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>121</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Corn</index>
+    <Ingredientes_necesarios>Corn</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>121</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Chipotle Sauce</index>
+    <Ingredientes_necesarios>Chipotle Sauce</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>121</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Coarse Sicilian Salami</index>
+    <Ingredientes_necesarios>Coarse Sicilian Salami</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>86</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Luganega Sausage</index>
+    <Ingredientes_necesarios>Luganega Sausage</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>86</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Onions</index>
+    <Ingredientes_necesarios>Onions</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>86</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Prosciutto di San Daniele</index>
+    <Ingredientes_necesarios>Prosciutto di San Daniele</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>71</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Arugula</index>
+    <Ingredientes_necesarios>Arugula</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>71</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Thai Sweet Chilli Sauce</index>
+    <Ingredientes_necesarios>Thai Sweet Chilli Sauce</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>118</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Beef Chuck Roast</index>
+    <Ingredientes_necesarios>Beef Chuck Roast</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>72</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Italian Sausage</index>
+    <Ingredientes_necesarios>Italian Sausage</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>31</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Chorizo Sausage</index>
+    <Ingredientes_necesarios>Chorizo Sausage</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>31</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Alfredo Sauce</index>
+    <Ingredientes_necesarios>Alfredo Sauce</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>45</Cantidad_a_comprar_por_semana>
+  </row>
+  <row>
+    <index>Eggplant</index>
+    <Ingredientes_necesarios>Eggplant</Ingredientes_necesarios>
+    <Cantidad_a_comprar_por_semana>41</Cantidad_a_comprar_por_semana>
+  </row>
+</data>
