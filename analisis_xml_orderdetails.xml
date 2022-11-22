@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TITULO>
+  <fichero order_details_2016.csv="nombre">
+    <columna nombre_columna="order_details_id">
+      <NaN _NaN_columna="0" />
+      <null _null_columna="0" />
+      <tipo_dato tipo_columna="int64" />
+    </columna>
+    <columna nombre_columna="order_id">
+      <NaN _NaN_columna="0" />
+      <null _null_columna="0" />
+      <tipo_dato tipo_columna="int64" />
+    </columna>
+    <columna nombre_columna="pizza_id">
+      <NaN _NaN_columna="5673" />
+      <null _null_columna="5673" />
+      <tipo_dato tipo_columna="object" />
+    </columna>
+    <columna nombre_columna="quantity">
+      <NaN _NaN_columna="4725" />
+      <null _null_columna="4725" />
+      <tipo_dato tipo_columna="object" />
+    </columna>
+  </fichero>
+</TITULO>

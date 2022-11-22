@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TITULO>
+  <fichero orders_2016.csv="nombre">
+    <columna nombre_columna="order_id">
+      <NaN _NaN_columna="0" />
+      <null _null_columna="0" />
+      <tipo_dato tipo_columna="int64" />
+    </columna>
+    <columna nombre_columna="date">
+      <NaN _NaN_columna="2353" />
+      <null _null_columna="2353" />
+      <tipo_dato tipo_columna="object" />
+    </columna>
+    <columna nombre_columna="time">
+      <NaN _NaN_columna="2038" />
+      <null _null_columna="2038" />
+      <tipo_dato tipo_columna="object" />
+    </columna>
+  </fichero>
+</TITULO>
