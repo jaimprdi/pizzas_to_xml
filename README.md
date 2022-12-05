@@ -4,3 +4,9 @@ Save the recomendation  for ingredients that are necessary at any given week  (c
 To obtain the analisis  of csv files, run the analisis de datos. py . 
 
 The main saves the prediction of ingredients to a csv file.
+
+Necesarias importar las librerías: 
+import pandas as pd 
+import re 
+import sys 
+import random
